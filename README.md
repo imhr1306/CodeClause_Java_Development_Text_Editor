@@ -13,14 +13,10 @@ JAVA SWING(GUI)
 
 Steps to use :-
 
-Project is live [Here]()
-
-          or
-
 Download or clone the repository
 
 git clone : [Click Here](https://github.com/imhr1306/CodeClause_Web_Development_Text_Editor.git)
 
 Go to the directory
 
-Run the index.html file
+Copy the JAVA code and paste it in any IDE and run the program.
