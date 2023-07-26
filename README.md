@@ -9,6 +9,8 @@ Technologies used :
 
 JAVA
 
+JAVA SWING(GUI)
+
 Steps to use :-
 
 Project is live [Here]()
