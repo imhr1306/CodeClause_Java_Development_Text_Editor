@@ -17,7 +17,7 @@ Project is live [Here]()
 
 Download or clone the repository
 
-git clone : [Click Here](https://github.com/imhr1306/CodeClause_Web_Development_Text_Editor/archive/refs/heads/main.zip)
+git clone : [Click Here](https://github.com/imhr1306/CodeClause_Web_Development_Text_Editor.git)
 
 Go to the directory
 
